@@ -73,8 +73,9 @@ body{
 
 #main{
     margin-top: 119px;
-    background: url('images/map.png');
+    background: url('images/mall4.jpg');
     background-repeat: repeat-y;
+    background-size: 100%;
 }
 
 #content{
